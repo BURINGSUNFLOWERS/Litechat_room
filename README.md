@@ -142,7 +142,7 @@ QUIT
 
 ## 目录结构
 
-\`\`\`
+
 chatroom/
 ├── common.h           # 公共数据结构
 ├── threadpool.h       # 线程池接口
@@ -153,7 +153,7 @@ chatroom/
 ├── client.cpp         # 客户端
 ├── Makefile           # 编译脚本
 └── README.md          # 项目文档
-\`\`\`
+
 
 ## 设计要点
 
